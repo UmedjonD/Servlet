@@ -1,4 +1,9 @@
+repository\UserRepository.class
+servlets\LoginServlet.class
 dto\User.class
+repository\BasketRepository.class
+repository\ProductCategoryRepository.class
 servlets\HelloServlet.class
+servlets\ProductServlet.class
 dto\Basket.class
 dto\ProductCategory.class
