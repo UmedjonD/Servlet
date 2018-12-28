@@ -9,9 +9,14 @@ public class UserRepository {
 
     List<User> userList = new ArrayList<>();
 
-    UserRepository() {
+    public UserRepository() {
         userList.add(new User("user","1234"));
-        userList.add(new User("admin","12345"));
+        userList.add(new User("admin","1234"));
     }
+
+    public List<User> getUserList() {
+        return userList;
+    }
+
 
 }

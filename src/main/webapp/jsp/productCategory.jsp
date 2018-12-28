@@ -7,13 +7,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Products</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>
     <!-- мое ммя и кнопка для выхода -->
     <div class="myname">
-        <h5>Давлатов Умеджон</h5>
+        <h5>"${user}"</h5>
     </div>
     <div class="exit">
             <input type="button" value="выход" onclick="javascript:window.location='autorization.html'">

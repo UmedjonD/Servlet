@@ -1,0 +1,9 @@
+
+ysquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(›¤«ßÿÿÿÿÿ8šª…¦ÿ,
+Xsquid:S1161":Add the "@Override" annotation above this method signature(ãˆ…Ë8ÝÒ»öþ,
+Gsquid:S1989"$Add a "try/catch" block for "doGet".(—ôÖ¢øÿÿÿÿ8–Ö…¦ÿ,
+{squid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ö¥ÓÅþÿÿÿÿ8¬íŠžÿ,
+Dsquid:S1989"&Add a "try/catch" block for "forward".(ºùŸ‘8šª…¦ÿ,
+[squid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓÞÏÛ8¹æÐúþ,
+Gsquid:S1989"$Add a "try/catch" block for "doGet".(—ôÖ¢øÿÿÿÿ8–Ö…¦ÿ,
+Dsquid:S1989"&Add a "try/catch" block for "forward".(ºùŸ‘8šª…¦ÿ,
