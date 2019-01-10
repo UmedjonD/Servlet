@@ -15,6 +15,9 @@
     <div class="myname">
         <h5>"${user}"</h5>
     </div>
+
+
+
     <div class="exit">
             <input type="button" value="выход" onclick="javascript:window.location='autorization.html'">
     </div>

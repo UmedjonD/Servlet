@@ -13,9 +13,15 @@
 </head>
 <body>
 
+    <p>
+        <%= new java.util.Date() %>
+    </p>
+
     <div class="contener">
     <div class="digblocform">
     <div class="myform">
+
+
         <form action="login" method="post"><br><br>
             Введите email:<br>
             <input type="text" name="firstname">
@@ -30,6 +36,7 @@
             <br>
             <br><br>
         </form>
+
     </div>
     </div>
     </div>
